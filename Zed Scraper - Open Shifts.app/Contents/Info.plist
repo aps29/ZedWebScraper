@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>Zed Scraper - Open Shifts</string>
+	<key>CFBundleExecutable</key>
+	<string>Zed Scraper - Open Shifts</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-2e5ba2c988b59eef0ff75e38f5642ebfbb17a66fe6d3a2359808fb6be161ed79.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>Zed Scraper - Open Shifts</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>Zed Scraper - Open Shifts</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
